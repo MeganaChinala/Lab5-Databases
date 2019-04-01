@@ -1,0 +1,33 @@
+body 
+{
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+p
+{
+    color: black;
+    font-family: calibri;
+    font-size: 15 pt;
+}
+
+h1
+{
+    color:#000000; 
+    font-family: calibri;
+    font-size: 50 pt;
+    text-align: center;
+}
+
+a
+{
+    background-color: transparent;
+    color: black;
+}
+
+a:hover
+{
+    background-color: #88d6e8;
+    color:red;
+}
