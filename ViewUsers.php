@@ -11,7 +11,7 @@ while ($row = $result->fetch_assoc())
 {
     echo "" . $row["user_id"] . "<br>";
 }
-// free result set
+
 $result->free();
 $DB->close();
 ?>
